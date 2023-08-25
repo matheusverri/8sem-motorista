@@ -3,14 +3,19 @@ body {
     color: #fff;
 }
 
-.container-create-account {
+.container-create-account,
+.container-login{
     margin-top: 10%;
 }
 
-.container-create-account label{
+.container label{
     color: rgba(240, 248, 255, 0.664) !important;
 }
 
 .navbar button {
     font-size: 27px;
+}
+
+.card {
+    color:#333;
 }
