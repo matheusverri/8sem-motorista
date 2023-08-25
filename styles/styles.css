@@ -16,6 +16,11 @@ body {
     font-size: 27px;
 }
 
+.navbar .navbar-brand img{
+    width: 80px;
+    height: 80px;
+}
+
 .card {
     color:#333;
 }
